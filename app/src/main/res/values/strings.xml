@@ -1,0 +1,24 @@
+<resources>
+    <string name = "app_name">AboutMe</string>
+    <string name = "my_name">Lydiah Florence Njeri</string>
+    <string name = "yellow_star">Yellow Star</string>
+    <string name = "long_text">You will need to wrap the two scrollable views into a LinearLayout inside the ScrollView
+
+        Below is a skeleton code version for this challenge.
+
+        The important thing to remember is that since ScrollView can only have one child, you have to wrap that
+        ImageView and the TextView into a LinearLayout.
+
+        There is no solution code provided for this challenge, but the skeleton code below gives you the expected view
+        hierarchy to use.
+    </string>
+	<string name = "nickname">What is your nickname?</string>
+    <string name = "done">Done</string>
+
+    <string name = "box_one">Box one</string>
+    <string name = "box_two">Box two</string>
+    <string name = "box_three">Box three</string>
+    <string name = "box_four">Box four</string>
+    <string name = "box_five">Box five</string>
+
+</resources>
